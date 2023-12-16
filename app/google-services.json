@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344101440792",
+    "project_id": "whatsapp-clone---chat-ap-fc1ac",
+    "storage_bucket": "whatsapp-clone---chat-ap-fc1ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344101440792:android:6c8abbed095b5c4ebf226d",
+        "android_client_info": {
+          "package_name": "com.example.whatsaapclone_chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmADcI3bhJCZmdjZPdXPPMs73eK_ErDRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344101440792:android:dd4f7a760ae72f98bf226d",
+        "android_client_info": {
+          "package_name": "com.example.whatsappclone_chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmADcI3bhJCZmdjZPdXPPMs73eK_ErDRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
